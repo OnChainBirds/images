@@ -1,0 +1,4 @@
+node_modules
+# SVG files are stored in svg.tar.gz to keep the repo size reasonable. They're
+# probably not needed individually by many people.
+svg
