@@ -8,3 +8,4 @@ and generate PNG files.
 - `42x42-transparent/`:  artwork as 42x42 PNG with transparent background.
 - `400x400/`:  artwork as 400x400 PNG.
 - `400x400-transparent/`:  artwork as 400x400 PNG with transparent background.
+- `svg.tar.gz`: Archive of all SVG files extracted from the smart contract.
